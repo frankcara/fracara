@@ -1,5 +1,7 @@
 ### Hi I am Frank 👋
 
+![Hero](./undraw_programming.png) 
+
 - 💻 Software Developer / System Admin 
 - 👨🏾‍💻 Languages: PHP, Typescript, Python, golang
 - 🌱 I’m currently learning Machine Learning
