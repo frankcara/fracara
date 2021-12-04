@@ -1,10 +1,5 @@
 ### Hi I am Frank 👋
 
-<p align="center">
-<img src="./undraw_programming.png" width="510" height="366">
-</p>
-
-
 - 💻 Backend Software Developer / System Admin 
 - 👨🏾‍💻 Languages: PHP, Typescript, Python, Golang
 - ☁️ Cloud Native
