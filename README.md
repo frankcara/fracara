@@ -1,6 +1,6 @@
 ### Hi I am Frank 👋
 
-![Hero](./undraw_programming.png) 
+![Hero](./undraw_programming.png =510x366)  
 
 - 💻 Software Developer / System Admin 
 - 👨🏾‍💻 Languages: PHP, Typescript, Python, golang
