@@ -6,7 +6,7 @@
 
 
 - 💻 Software Developer / System Admin 
-- 👨🏾‍💻 Languages: PHP, Typescript, Python, golang
+- 👨🏾‍💻 Languages: PHP, Typescript, Python, Golang
 - 🌱 I’m currently learning Machine Learning
 
 ### Find me around the web.
