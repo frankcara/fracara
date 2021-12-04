@@ -5,7 +5,7 @@
 </p>
 
 
-- 💻 Software Developer / System Admin 
+- 💻 Backend Software Developer / System Admin 
 - 👨🏾‍💻 Languages: PHP, Typescript, Python, Golang
 - ☁️ Cloud Native
 - 🌱 I’m currently learning Machine Learning
