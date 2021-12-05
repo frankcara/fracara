@@ -3,7 +3,7 @@
 - 💻 Backend Software Developer / System Admin 
 - 👨🏾‍💻 Languages: PHP, Typescript, Python, Golang
 - ☁️ Cloud Native
-- 🌱 I’m currently interested in Machine Learning
+<!-- - 🌱 I’m currently interested in Machine Learning -->
 
 ### Find me around the web.
 
